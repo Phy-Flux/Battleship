@@ -7,5 +7,6 @@ In the game, each player secretly arranges a fleet of ships on a 10×10 grid. Th
 
 The goal is to sink all of the opponent's ships by correctly guessing their locations. It’s a game of deduction, strategy, and a bit of luck!
 
-It's numerical counterpart is a little bit different, but still playable. I created this game as a practical challenge for enhancing my c++ skills.
+It's numerical counterpart is a little bit different, but still playable. 
 
+In future release new features will be added.
