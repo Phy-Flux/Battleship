@@ -29,6 +29,7 @@ std::string elementGrid(int num){
     return symb;
 }
 
+
 int string_converter(char letter){
     int level;
     letter = std::toupper(letter);
@@ -452,8 +453,6 @@ Battlefield init_BattleField(){
 
     return init_battlefields[index_random];
 }
-
-using Battlefield = std::vector<std::vector<int>>;
 
 int main(){
 
